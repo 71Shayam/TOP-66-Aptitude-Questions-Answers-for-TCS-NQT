@@ -9,3 +9,5 @@ This repository contains the Top 66 Most Important Questions for TCS-NQT (Nation
 🔗 [Your GitHub Repository Link]
 
 ⭐ Don't forget to star this repo for updates! 😊
+
+---> Give a Thumbs upp, if you liked!!!
